@@ -20,7 +20,7 @@ const transporter = nodemailer.createTransport({
 });
 
 // Vérifier la connexion au démarrage
-transporter.verify((err) => {
+// transporter.verify((err) => {
   if (err) console.error('❌ Email SMTP non connecté:', err.message);
   else console.log('✅ Serveur email SMTP prêt');
 });
