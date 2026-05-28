@@ -1,0 +1,11 @@
+numero_facture,nom_debiteur,email_debiteur,telephone_debiteur,montant,date_echeance,description
+FAC-2024-001,SARL Martin Bâtiment,comptabilite@martin-batiment.fr,+33612345678,4500.00,2024-01-15,Travaux de rénovation — Devis n°D2023-089
+FAC-2024-002,Épicerie Benali,benali.epicerie@gmail.com,+33698765432,1250.50,2024-01-20,Fournitures alimentaires — Livraison décembre 2023
+FAC-2024-003,Cabinet Dupont & Associés,factures@dupont-avocats.fr,+33145678901,8900.00,2024-02-01,Conseil juridique — Dossier contentieux Q4 2023
+FAC-2024-004,Auto Garage Morin,contact@garage-morin.com,+33478901234,675.00,2024-02-10,Pièces détachées — Commande réf. CMD-4521
+FAC-2024-005,Imprimerie Lefort,lefort.imprimerie@outlook.fr,+33556789012,2100.00,2024-02-15,Impression brochures commerciales — 500 ex.
+FAC-2024-006,Restaurant Le Provençal,leprovencal.resto@gmail.com,+33489012345,340.00,2024-02-20,Produits frais — Livraison semaine 7
+FAC-2024-007,SAS TechSolutions,ap@techsolutions.fr,+33156789012,12500.00,2024-03-01,Développement logiciel — Jalon 2/3
+FAC-2024-008,Pharmacie Centrale Rabat,pharma.centrale@menara.ma,+212661234567,3200.00,2024-03-05,Médicaments et consommables — Commande mars
+FAC-2024-009,EURL Hajji Transport,hajji.transport@gmail.com,+212698765432,5600.00,2024-03-10,Prestations transport — Février 2024
+FAC-2024-010,Librairie Ibn Batouta,librairie.ibnbatouta@gmail.com,+212522345678,890.00,2024-03-15,Fournitures bureau — Papeterie et cartouches
