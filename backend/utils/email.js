@@ -20,10 +20,7 @@ const transporter = nodemailer.createTransport({
 });
 
 // Vérifier la connexion au démarrage
-// transporter.verify((err) => {
-  if (err) console.error('❌ Email SMTP non connecté:', err.message);
-  else console.log('✅ Serveur email SMTP prêt');
-});
+// vérification SMTP désactivée en production
 
 // ─── Pied de page légal OBLIGATOIRE (RGPD + mention légale) ───────────────────
 const LEGAL_FOOTER = `
