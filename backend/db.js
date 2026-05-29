@@ -4,7 +4,7 @@
  */
 
 require('dotenv').config();
-const Database = require('better-sqlite3');
+const Database = require('sqlite3').verbose();
 const path = require('path');
 
 const DB_PATH = process.env.DB_PATH || './database.db';
